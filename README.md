@@ -30,7 +30,7 @@
 <h3>Habilidades Em Desenvolvimento</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=footer"/> 
