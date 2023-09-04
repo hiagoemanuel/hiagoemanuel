@@ -30,8 +30,9 @@
 </div>
 
 <h3>Habilidades Em Desenvolvimento</h3>
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <div>
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006666&height=120&section=footer"/> 
