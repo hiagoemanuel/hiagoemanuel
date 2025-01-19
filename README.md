@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=ff4342&background=FFFFFF00&width=435&lines=ol%C3%A1!+me+chamo+hiago+emanuel;seja+bem+vindo+%3AD)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/hiago-emanuel-603610246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ff4342?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hiago-emanuel-603610246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-a83132?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 <hr>
