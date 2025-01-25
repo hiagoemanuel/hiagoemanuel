@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=ff4342&background=FFFFFF00&width=435&lines=ol%C3%A1!+me+chamo+hiago+emanuel;seja+bem+vindo+%3AD)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/hiago-emanuel-603610246" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-a83132?style=for-the-badge&logoColor=white" target="_blank"></a>
-<a href="https://x.com/hiagoemanuell" target="_blank"><img src="https://img.shields.io/badge/Twitter-a83132?style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href="https://x.com/hiagoemanuell" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-a83132?style=for-the-badge&logoColor=white" target="_blank"></a>
 
 <hr>
 
